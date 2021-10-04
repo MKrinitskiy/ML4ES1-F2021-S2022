@@ -15,7 +15,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | ----- | ---- | ----- | ------- |
 |  |  | **I семестр** |  |
 | Лекция 0 | 14.09.2021 | Вводная лекция. Машинное обучение в науках о Земле. | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect00)<br />[Видеозапись](https://bit.ly/3ke34ZI) |
-| Лекция 1 | 21.09.2021 | Подход решения задач машинного обучения<br />Классы и виды задач машинного обучения | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect01) |
+| Лекция 1 | 21.09.2021 | Общий подход решения задач машинного обучения<br />Классы и виды задач машинного обучения | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect01) |
 
 
 
