@@ -33,6 +33,8 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 
 Дополнительные источники
 
+- *Peter Bruce and Andrew Bruce* ["Practical Statistics for Data Scientists, 2nd Edition"](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/) / Sebastopol, CA, USA: O’Reilly Media, 2020.
+
 - *Шай Шалев-Шварц, Шай Бен-Давид* "Идеи машинного обучения." / - М.: ДМК Пресс, 2018. 432 c.
 
 - [*Hastie T., Tibshirani R., Friedman J.* "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition"](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) / T. Hastie, R. Tibshirani, J. Friedman, 2-е изд., New York: Springer-Verlag, 2009.
