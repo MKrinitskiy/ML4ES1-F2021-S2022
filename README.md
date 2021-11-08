@@ -20,7 +20,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 2 | 05.10.2021 | Общий подход решения задач с применением методов МО;<br />Краткий обзор видов и свойств методов МО. | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect02) |
 | Лекция 3 | 12.10.2021 | (Некоторые) технические средства анализа данных. | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect03)<br />[Видеозапись](https://bit.ly/3AHElCd) |
 | Лекция 4 | 19.10.2021 | Линейная регрессия как (вероятностная) модель машинного обучения. | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect04)<br />[Видеозапись](https://bit.ly/3aRCJex) |
-| ДЗ №2 | 27.10.2021<br />дедлайн: **02.11.2021** | Оформление ДЗ №1 в виде jupyter-ноутбука |  |
+| ДЗ №2 | 27.10.2021<br />дедлайн: **02.11.2021** | Оформление ДЗ №1 в виде jupyter-ноутбука | [результаты](https://github.com/MKrinitskiy/ML4ES1-F2021-S2022/blob/master/HW02/leaderboard.md) |
 | Лекция 5 | 02.11.2021 | Признаковое описание и порождение признаков | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect05)<br />[Видеозапись](https://bit.ly/3BR8fo4) |
 
 
