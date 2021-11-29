@@ -25,6 +25,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 6 | 09.11.2021 | Общая структура решения задач типа "Обучение с учителем"<br />Оценка качества на примере линейной регрессии как модели МО | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect06)<br />[Ноутбук и данные](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect06/LinearRegression/)<br />[Видеозапись](https://bit.ly/ML4ES1-2021-11-09-Lect06) |
 | Лекция 7 | 16.11.2021 | Неопределенность в задачах машинного обучения.<br />Оценка неопределеностей методом Bootstrap | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect07)<br />[Видеозапись](https://bit.ly/ML4ES1-2021-11-16-Lect07) |
 | ДЗ №3 | 20.10.2021<br />дедлайн: **30.11.2021** | Технические средства анализа данных.<br />Оценка числа Пи методом Монте-Карло | [описание - рамочный jupyter-ноутбук](https://github.com/MKrinitskiy/ML4ES1-F2021-S2022/blob/master/HW03/HW03-writeup.ipynb) |
+| Лекция 8 | 23.11.2021 | Неопределенность в задачах машинного обучения.<br />Источники неопределенностей; виды неопределенностей.<br />Способы снижения неопределенностей. | [материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect08)<br />[Видеозапись](https://bit.ly/ML4ES1-2021-11-23-Lect08) |
 
 
 
