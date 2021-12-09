@@ -8,5 +8,5 @@
 
 
 
-Заметки к лекции доступны в [PDF](https://github.com/MKrinitskiy/ML4ES1-F2021-S2022/blob/main/Lect09/ML4ES1-2021-12-07-Lect09-notes.pdf)
+Заметки к лекции доступны в [PDF](https://github.com/MKrinitskiy/ML4ES1-F2021-S2022/blob/master/Lect09/ML4ES1-2021-12-07-Lect09-notes.pdf)
 
