@@ -1,4 +1,4 @@
-# ML4ES1-2020-2021
+# ML4ES1-2021-2022
 Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://sail.ocean.ru/viewuser.php?user=krinitsky) ([RG link](https://www.researchgate.net/profile/Mikhail_Krinitskiy))
 
 Машинное обучение в науках о Земле. Читает [Михаил Криницкий](https://sail.ocean.ru/viewuser.php?user=krinitsky)<br />
