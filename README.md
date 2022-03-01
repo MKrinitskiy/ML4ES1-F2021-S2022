@@ -39,6 +39,8 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | ДЗ №4 | 07.12.2021<br />~~дедлайн: **15.12.2021**~~<br />дедлайн: **19.12.2021** | Оценка неопределенностей в задаче регрессии. | [описание и данные](https://github.com/MKrinitskiy/ML4ES1-F2021-S2022/blob/master/HW04/)<br />[достижения](https://github.com/MKrinitskiy/ML4ES1-F2021-S2022/blob/master/HW04/leaderboard.md) |
 | Лекция 9 | 07.12.2021 | Оптимизация функции потерь в задачах обучения с учителем.<br />Градиентная оптимизация. Метод градиентного спуска. | [видеозапись](https://bit.ly/ML4ES1-2021-12-07-Lect09)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect09) |
 | Лекция 10 | 14.12.2021 | Метод градиентного спуска:<br />особенности на скоррелированных данных, гиперпараметры. | [видеозапись](https://bit.ly/ML4ES1-2021-12-14-Lect10)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect10) |
+|  |  | **II семестр** |  |
+| Лекция 11 | 08.02.2022 | Задача классификации.<br />Метод K ближайших соседей. | [видеозапись](https://bit.ly/ML4ES1-2022-02-08-Lect11)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect11) |
 
 
 
