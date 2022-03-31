@@ -4,7 +4,7 @@
 
 
 
-Основой для выполнения ДЗ №4 может стать ноутбук с кодом, который можно скачать [здесь](https://github.com/MKrinitskiy/ML4ES1_A2021-S2022/blob/master/HW05/MNIST_classification_MLR.ipynb)
+Основой для выполнения ДЗ №4 может стать ноутбук с кодом, который можно скачать [здесь](https://github.com/MKrinitskiy/ML4ES1-F2021-S2022/blob/master/HW05/MNIST_classification_MLR.ipynb)
 
 Набор данных рукописных цифр для выполнения ДЗ №5 можно скачать [здесь (сами данные)](https://ml4es.ru/ml4es_course_content/Lect12/MNIST_data/mnist_data.npy) и [здесь (метки цифр)](https://ml4es.ru/ml4es_course_content/Lect12/MNIST_data/mnist_labels.npy)
 
