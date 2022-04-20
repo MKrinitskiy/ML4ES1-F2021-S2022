@@ -49,6 +49,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | ДЗ №5 | 29.03.2021<br />дедлайн: **19.04.2021** | Мультиномиальная логистическая регрессия и оценка качества моделей классификации | [описание и материалы](https://github.com/MKrinitskiy/ML4ES1-F2021-S2022/blob/master/HW05/) |
 | Лекция 17 | 05.04.2022 | Оценка качества в задачах классификации.<br />Меры качества для несбалансированных выборок. | [видеозапись](https://bit.ly/ML4ES2-2022-04-05-Lect17)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect17) |
 | Лекция 18 | 12.04.2022 | Непараметрические модели.<br />Деревья решений. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-04-12-Lect18.mp4)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect18) |
+| Лекция 19 | 19.04.2022 | Ансамбли моделей. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-04-19-Lect19.mp4)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect19) |
 
 
 
