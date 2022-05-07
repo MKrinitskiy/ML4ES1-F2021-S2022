@@ -51,6 +51,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 18 | 12.04.2022 | Непараметрические модели.<br />Деревья решений. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-04-12-Lect18.mp4)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect18) |
 | Лекция 19 | 19.04.2022 | Ансамбли моделей. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-04-19-Lect19.mp4)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect19) |
 | Лекция 20 | 26.04.2022 | Обобщенные линейные модели.<br />Обобщенные аддитивные модели.<br />Многослойный перцептрон. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-04-26-Lect20.mp4)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect20) |
+| Лекция 21 | 04.05.2022 | Метод опорных векторов (SVM) | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-05-04-Lect21.mp4)<br />[материалы лекции](https://github.com/mkrinitskiy/ML4ES1-F2021-S2022/tree/master/Lect21) |
 
 
 
